@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo _hello betty holberton
+chown -h betty:holberto _hello

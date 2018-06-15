@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 cd..
+chmod a+x $(find . -type d)

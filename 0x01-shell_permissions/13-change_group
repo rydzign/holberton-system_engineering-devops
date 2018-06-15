@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo holberton hello
+chgrp holberton hello
